@@ -14,6 +14,6 @@ These project was developd with the following thecnologies:
 
 ## 💻 Project
 
-The main goal of this project create a React application using Sass as CSS, learn how to filter through different photo tags, showing the corresponding images, work with image imports thorugh json using the public folder and learn how to set a absolute import
+This project was created to serve as portifolio for my other projects as for those who are to come. Also with that project I was able to learn and use React Route for the first time
 
-You can see the project [HERE]()
+You can view the project [HERE](https://profile-kqn8.vercel.app/)
