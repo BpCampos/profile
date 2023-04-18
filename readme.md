@@ -14,6 +14,6 @@ These project was developd with the following thecnologies:
 
 ## 💻 Project
 
-This project was created to serve as portifolio for my other projects as for those who are to come. Also with that project I was able to learn and use React Route for the first time
+This project recreate a blog website wit informations about me and different posts to navigate within and was developed with the main goal of learn how to use React Router and understand how to manage the application paths
 
 You can view the project [HERE](https://profile-gilt-nu.vercel.app/)
