@@ -1,4 +1,4 @@
-# alura-space
+# Profile
 
 ## 🚀 Technologies
 
